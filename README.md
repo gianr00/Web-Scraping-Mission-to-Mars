@@ -5,7 +5,7 @@ Author: Rosie Gianan, gianr00@gmail.com
 Build with: HTML, MongoDB, Flask, BeautifulSoup, Pandas and Requests/Splinter 
 
 ## Goal:
-Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page.
+Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information into a single HTML page.
 
 ## Solution:
 1. Create a scraping module that visit the following sites and scrapes the data related to "Mission to Mars":
