@@ -2,9 +2,9 @@
 
 Author: Rosie Gianan, gianr00@gmail.com
 
-Build with: HTML, PyMongo, Flask, BeautifulSoup, Bootstrap, Python, Pandas and Requests/Splinter 
+Build with: HTML, PyMongo, Flask, BeautifulSoup, Bootstrap, Python, Pandas, Requests/Splinter 
 
-## Goal:
+## Objective:
 Build a web application that scrapes various websites for data related to the Mission to Mars and displays the information into a single HTML page.
 
 ## Solution:
